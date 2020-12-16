@@ -1,0 +1,13 @@
+{
+  "link": [
+    {
+      "value": "link",
+      "options": "<serialized code here>"
+    }
+  ],
+  "_links": {
+    "type": {
+      "href": "http://159.203.167.125:8090/rest/type/shortcu/default"
+    }
+  }
+}'
